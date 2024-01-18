@@ -1,7 +1,16 @@
-li {
+a {
     font-size: 20px;
 }
 
 body {
     background-color: #e3cf98;
+    font-family: "Helvetica", sans-serif;
+}
+
+h1, h2 {
+    font-family: "Brush Script MT", "Times New Roman", sans-serif;
+}
+
+.align-center {
+    text-align: center;
 }
